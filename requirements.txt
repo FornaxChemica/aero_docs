@@ -1,0 +1,6 @@
+embedchain==0.1.125
+fastapi==0.115.5
+openai==1.54.4
+python-dotenv==1.0.1
+python-multipart==0.0.17
+uvicorn==0.32.0

@@ -1,0 +1,12 @@
+llm:
+  provider: openai
+  config:
+    model: 'gpt-4o'
+    temperature: 0.5
+    max_tokens: 500
+    top_p: 1
+    # base_url: 'http://localhost:11434'
+embedder:
+  provider: openai
+  config:
+    model: 'text-embedding-3-small'
